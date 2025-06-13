@@ -1,35 +1,33 @@
-# DanielPhelps128-
+# Hi there! I'm Daniel Phelps 
 
-# 👋 Hi there! I'm Daniel Phelps 
-
-Welcome to my GitHub profile! I'm a [your role: e.g., Computer Science student, data analyst, aspiring developer] with a passion for building meaningful and impactful projects.
+Welcome to my GitHub profile! I'm a Graduate pursuing a Master's degreee in Data Science with a passion for building meaningful and impactful projects.
 
 ---
 
-## 🔍 About Me
-I'm currently learning [insert tech or tools], and I'm interested in topics like [insert interests: e.g., AI, web development, data visualization]. I enjoy solving real-world problems through code and collaborating on open-source projects.
+## About Me
+I'm currently learning RStudio, and I'm interested in topics like Data Science and Business Analytics. I enjoy playing video games and watching sports.
 
 ---
 
-## 🛠️ Skills
+## Skills
 - Programming: `Python`, `R`
 - Tools: Git, GitHub, RStudio, Tableau
-- Areas of Interest: Data Science, Machine Learning, Web Dev
+- Areas of Interest: Data Science, Business Analytics
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Link |
 |--------|-------------|------|
-| Patient Risk Profiles | Cleaned and visualized medical data | [GitHub Repo](https://github.com/yourusername/project1) |
-| Time Series Forecasting | Forecasted light rail demand using R | [GitHub Repo](https://github.com/yourusername/project2) |
+| **Patient Risk Profiles** | Analyzed and visualized patient-level medical data to identify risk indicators. Used R for data wrangling, LLM-assisted data annotation, and created model-based visualizations. | [View Project Repo](https://github.com/yourusername/patient-risk-profiles) |
+| **Starbucks Process Simulation** | Modeled customer flow and resource bottlenecks in a Starbucks café using Simul8. Ran scenarios with cross-trained employees and extra equipment to improve performance. | [View Project Repo](https://github.com/yourusername/starbucks-simulation) |
+| **Excess Mortality in COVID-19** | Forecasted expected deaths using time series modeling in R, compared to actual reported COVID-19 deaths in Florida and Pennsylvania. | [View Project Repo](https://github.com/yourusername/covid-excess-mortality) |
 
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: youremail@example.com
-- [Portfolio Website](https://yourportfolio.com)
+- [LinkedIn](www.linkedin.com/in/daniel-phelps-76a225207)
+- 📧 Email: dphelps9693@floridapoly.edu
 
-Thanks for stopping by! 🚀
+Thanks for stopping by!
