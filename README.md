@@ -18,11 +18,11 @@ I'm currently learning RStudio, and I'm interested in topics like Data Science a
 
 ## Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| **Patient Risk Profiles** | Analyzed and visualized patient-level medical data to identify risk indicators. Used R for data wrangling, LLM-assisted data annotation, and created model-based visualizations. | [View Project Repo](https://github.com/yourusername/patient-risk-profiles) |
-| **Starbucks Process Simulation** | Modeled customer flow and resource bottlenecks in a Starbucks café using Simul8. Ran scenarios with cross-trained employees and extra equipment to improve performance. | [View Project Repo](https://github.com/yourusername/starbucks-simulation) |
-| **Excess Mortality in COVID-19** | Forecasted expected deaths using time series modeling in R, compared to actual reported COVID-19 deaths in Florida and Pennsylvania. | [View Project Repo](https://github.com/yourusername/covid-excess-mortality) |
+| Project | Description |
+|--------|-------------|
+| **Patient Risk Profiles** | Analyzed and visualized patient-level medical data to identify risk indicators. Used R for data wrangling, LLM-assisted data annotation, and created model-based visualizations. |
+| **Starbucks Process Simulation** | Modeled customer flow and resource bottlenecks in a Starbucks café using Simul8. Ran scenarios with cross-trained employees and extra equipment to improve performance. | 
+| **Excess Mortality in COVID-19** | Forecasted expected deaths using time series modeling in R, compared to actual reported COVID-19 deaths in Florida and Pennsylvania. |
 
 ---
 
