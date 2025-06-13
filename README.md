@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Graduate pursuing a Master's degreee in Data
 ---
 
 ## About Me
-I'm currently learning RStudio, and I'm interested in topics like Data Science and Business Analytics. I enjoy playing video games and watching sports.
+I'm currently learning RStudio, and I'm interested in topics like Data Science and Business Analytics. I enjoy playing video games and watching sports. I have acquired my Bachelor's degree in Business Analytics with a concentration in Logistics and Supply Chain Management. I am from Wilmington, North Carolina.
 
 ---
 
