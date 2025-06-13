@@ -27,7 +27,7 @@ I'm currently learning RStudio, and I'm interested in topics like Data Science a
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](www.linkedin.com/in/daniel-phelps-76a225207)
+- [LinkedIn](https://www.linkedin.com/in/daniel-phelps-76a225207)
 - 📧 Email: dphelps9693@floridapoly.edu
 
 Thanks for stopping by!
